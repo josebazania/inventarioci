@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir *)",
+      "Bash(php *)",
+      "Bash(icacls *)",
+      "Bash(findstr *)",
+      "Bash(\"c:\\xampp\\mysql\\bin\\mysql.exe\" *)",
+      "Bash(del *)"
+    ]
+  },
+  "$version": 3
+}
